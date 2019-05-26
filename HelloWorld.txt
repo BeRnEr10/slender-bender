@@ -1,2 +1,3 @@
 print("Hello Wolrd!");
-print("Hello everybody");
+print("Hello everybody"):
+print("Hello, my dear friend");
